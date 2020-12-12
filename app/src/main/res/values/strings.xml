@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="simple_app">Simple App</string>
+    <string name="made_by_icon_software">Made With Love In India By Icon Software</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="player_2_0">Player 2: 0</string>
+    <string name="reset">reset</string>
+</resources>
